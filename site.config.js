@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
+    name: "Harshit Nagar",
+    image: "/notion-avatar-yellow.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Software Engineer",
+    bio: "Jack having trouble deciding what to master",
+    email: "hnagar.000@gmail.com",
     linkedin: "morethanmin",
-    github: "morethanmin",
-    instagram: "",
+    github: "HarshitNagar",
+    instagram: "harshit.nagar",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `morethan-log-woah`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Harshit Nagar",
+    description: "Welcome to my blog",
   },
 
   // CONFIG configration (required)
